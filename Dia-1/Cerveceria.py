@@ -1,0 +1,1 @@
+print("El nombre de tu cerveza es:\n'" + input("¿Prefieres la botella en lata o vidrio?: ") + " " + input("¿Tu hora perfecta para tomar una birra?: ")+"'")
